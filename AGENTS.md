@@ -1,5 +1,7 @@
 # JBang Agent Handbook
 
+> **This file** covers building and contributing to JBang itself. To *use* JBang (run `.java` scripts, declare `//DEPS`, scaffold/share scripts, or install JBang) from an AI coding assistant, see the [`jbang` skill](skills/jbang/SKILL.md).
+
 - Toolchain: Gradle build, Java 11 runtime (targets 8 bytecode).
 - Build everything: `./gradlew build`; prefer Gradle tasks over direct javac.
 - Unit tests: `./gradlew test`; single test with `./gradlew test --tests "pkg.Class"`.

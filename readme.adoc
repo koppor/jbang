@@ -187,6 +187,8 @@ Beyond scripting, JBang can launch any Java application packaged as a JAR. Check
 
 📖 **Technical documentation:** https://deepwiki.com/jbangdev/jbang, AI generated from source code.
 
+> Using an AI coding assistant? The link:skills/jbang/SKILL.md[`jbang` skill] is an agent-generic guide to running scripts, declaring `//DEPS`, scaffolding, and installing JBang. Install it with `npx skills add jbangdev/jbang --skill jbang` (link:skills/jbang/README.md[details]).
+
 
 
 
